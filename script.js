@@ -86,7 +86,7 @@ const questions=[
        ]
     },
     {
-        question: "which platent does not have rings ?" ,
+        question: "which planet does not have rings ?" ,
         answers:[
          {Text: "Saturn" , correct: false},
          {Text: "Jupiter" , correct: false},
